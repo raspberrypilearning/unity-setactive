@@ -1,11 +1,9 @@
-title: unity-setactive
+title: Make GameObjects appear or disappear using SetActive
 hero_image: images/banner.png
-description: unity-setactive description
+description: Make GameObjects appear or disappear using SetActive
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-11-22"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Make GameObjects appear or disappear using SetActive
