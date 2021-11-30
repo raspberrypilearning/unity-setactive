@@ -11,7 +11,7 @@ public GameObject heart;
 
 void Start()
 {
-    heart.setActive(false)
+    heart.setActive(false);
 }
 
 public void PlayerReady()
