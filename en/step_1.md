@@ -42,7 +42,7 @@ void Start()
 public void PlayerReady()
 {
     isReady = true;
-    ButtonTime = Time.time;
+    startTime = Time.time;
     canvas.SetActive(false);
     
     foreach (var star in stars)
