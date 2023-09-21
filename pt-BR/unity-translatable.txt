@@ -1,0 +1,13 @@
+heart
+
+PlayerReady
+
+stars
+
+star
+
+isReady
+
+startTime
+
+canvas
