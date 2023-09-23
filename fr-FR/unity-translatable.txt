@@ -1,13 +1,13 @@
-heart
+cœur
 
-PlayerReady
+JoueurPret
 
-stars
+etoiles
 
-star
+etoile
 
-isReady
+estPret
 
-startTime
+demarrageTemps
 
 canvas
