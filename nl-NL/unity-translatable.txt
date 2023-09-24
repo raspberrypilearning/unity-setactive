@@ -1,13 +1,13 @@
-heart
+hart
 
-PlayerReady
+SpelerKlaar
 
-stars
+sterren
 
-star
+ster
 
-isReady
+isKlaar
 
-startTime
+startTijd
 
 canvas
