@@ -1,6 +1,6 @@
-You can use `SetActive(true)` to activate a GameObject and `SetActive(false)` to deactive a GameObject so that it doesn't appear.
+Je kan `SetActive(true)` gebruiken om een GameObject te activeren, en `SetActive(false)` om het te deactiveren zodat het niet verschijnt.
 
-You can use `SetActive` on a public variable and drag a GameObject in the Inspector:
+Je kan `SetActive` gebruiken op een public variabele en een GameObject naar de Inspector slepen:
 
 --- code ---
 ---
@@ -17,7 +17,7 @@ public void PlayerReady()
 
 --- /code ---
 
-You can also use `SetActive` on all GameObjects with the same tag:
+Je kunt `SetActive` ook gebruiken op alle GameObjects met dezelfde tag:
 
 --- code ---
 ---
