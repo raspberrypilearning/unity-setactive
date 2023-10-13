@@ -1,0 +1,13 @@
+hart
+
+SpelerKlaar
+
+sterren
+
+ster
+
+isKlaar
+
+startTijd
+
+canvas
